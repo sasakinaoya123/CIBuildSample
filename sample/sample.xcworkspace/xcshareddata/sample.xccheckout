@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9ED365EC-F377-485F-9207-85C55AD5F095</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F4BD6D5A6C75893AF6E4458137327AAA5A3742A2</key>
+		<string>https://github.com/sasakinaoya123/CIBuildSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sample/sample.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F4BD6D5A6C75893AF6E4458137327AAA5A3742A2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sasakinaoya123/CIBuildSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F4BD6D5A6C75893AF6E4458137327AAA5A3742A2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4BD6D5A6C75893AF6E4458137327AAA5A3742A2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CiBuild</string>
+		</dict>
+	</array>
+</dict>
+</plist>
