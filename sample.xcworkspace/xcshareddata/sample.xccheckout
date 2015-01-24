@@ -14,11 +14,11 @@
 		<string>https://github.com/sasakinaoya123/CIBuildSample.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>sample/sample.xcworkspace</string>
+	<string>sample.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>F4BD6D5A6C75893AF6E4458137327AAA5A3742A2</key>
-		<string>../..</string>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/sasakinaoya123/CIBuildSample.git</string>
